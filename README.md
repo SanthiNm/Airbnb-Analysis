@@ -1,7 +1,7 @@
 # Airbnb-Analysis
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
-Refer Tableau Visualization  -  [My Tableau Dashboard](https://public.tableau.com/authoring/Airbnb_Analysis_17186368939420/Dashboard1#1)
+Refer Tableau Visualization  - [My Tableau Dashboard](https://public.tableau.com/app/profile/santhi.krishna.n.m/viz/Airbnb_Analysis_17186368939420/Dashboard1)
 
 ## Domain :
 - Travel Industry
